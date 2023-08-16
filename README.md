@@ -108,7 +108,7 @@ localhost:3000
 ## 👥 Authors <a name="author"></a>
 
 👤 **Daniel Falcon** 
-- GitHub: [Github](https://github.com/Danfall369) |
+- GitHub: [Github](https://github.com/Danfall369)
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/danfall369/)
 
 <!-- FEATURES -->
